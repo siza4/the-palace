@@ -1,5 +1,5 @@
-{"timestamp":"00:00:10.259","source":"Server","level":"LOG","message":""}
-{"timestamp":"00:00:11.003","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
-{"timestamp":"00:00:13.971","source":"Server","level":"LOG","message":"○ Compiling /identity/[id] ..."}
-{"timestamp":"00:00:18.466","source":"Server","level":"WARN","message":"⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload"}
-{"timestamp":"00:00:25.071","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:00:17.759","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:20.841","source":"Server","level":"LOG","message":"○ Compiling /enter ..."}
+{"timestamp":"00:00:28.366","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:00:58.216","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:00:59.786","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
